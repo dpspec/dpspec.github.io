@@ -615,6 +615,7 @@ a:hover {
 .project-name {
     margin-top: 0;
     margin-bottom: 0.1rem
+        font-size: 72
 }
 
 @media screen and (min-width: 64em) {
